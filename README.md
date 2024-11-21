@@ -1,4 +1,4 @@
-Part 1: Statrting the Design
+Part 1: Starting the Design
 The first part of the assignment was to design the application that is to be dedicated to the food menu. During this phase, I concentrated on the graphic implementation of the app and how the UI should appear. It was aimed at achieving better looking design that will attract people and make it easy to use the interface.
 
 In this process I focused on the structure of the site because it is important that it is easy to navigate and attractively designed. To recreate a real menu I divided the project into sections and grouped these sections according to the prevailing category, which are Appetizers, Main Courses and Desserts, and created general names of the items, for instance, Caesar Salad for Appetizers, Margherita Pizza for Main Course, and Cheesecake for the Desserts Section. In an attempt of being on the same level with the theme of the app, which is food, the colors and fonts were chosen to depict warmth and professionalism.
