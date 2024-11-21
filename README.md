@@ -18,3 +18,21 @@ The last component of the assignment demanded from me to enhance the application
 To bring into practice this feature meant that the menu data needed to be changed to include the categories and a filtering mechanism. I followed this up by including a new screen the result of the filters a user has applied so that they can scroll through their favorite menu options. This addition made the app more useful because it brought order and customization of the content relevant to users.
 
 In addition, I included a couple of minor aesthetic enhancements that I thought enhanced the app’s current look and feel, namely, animations and transitions. In this phase, the advancements showcased how minor incremental changes have a massive impact on improving an app.
+
+
+
+Referencing:
+Food Network (2016). Home. [online] Food Network. Available at: https://www.foodnetwork.com/.
+
+‌Grubhub.com. (2019). Prepare your taste buds... [online] Available at: https://www.grubhub.com/.
+
+‌
+Food & Wine. (2019). Home Page. [online] Available at: https://www.foodandwine.com/.
+
+‌thefoodtrust.org. (2022). The Food Trust. [online] Available at: https://thefoodtrust.org/.
+
+‌FOOD RESCUE US. (n.d.). FOOD RESCUE US - The Simple Solution to Ending Local Hunger. [online] Available at: https://foodrescue.us/.
+
+‌logo.com. (n.d.). Logo Maker & Brand Builder | Logo.com. [online] Available at: https://logo.com/.
+
+‌
